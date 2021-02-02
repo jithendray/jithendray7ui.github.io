@@ -21,11 +21,11 @@ In the summer of 2019, I was a visiting researcher at [HCI Lab](https://hci.iiit
 
 ---
 
-I spend my time analysing some publicly available data, reading research papers and [writing](https://jbsy.github.io/blog/). I spend my liesure time mostly banging my head to some heavy metal and some times I read books. Unfortunately, 2020 compelled me to blog about my weird music taste. I started writing my personal thoughts and impressions on Metal bands and their albums on [Medium](https://mettal-musings.blogspot.com/).
+I actively publish code to [GitHub](https://github.com/jithendrabsy). I'm also active on [Twitter](https://twitter.com/jithendrabsy) and [LinkedIn](https://www.linkedin.com/in/jithendrabsy/). If you think me (or my projects) are interesting feel free to contact me! You can also mail me at [jithendra1230@gmail.com](mailto:jithendra1230@gmail.com). I'm always interested in hearing about new opportunities to collaborate and work on machine learning projects or hackathons.
 
 ---
 
-I actively publish code to [GitHub](https://github.com/jithendrabsy). I'm also active on [Twitter](https://twitter.com/jithendrabsy) and [LinkedIn](https://www.linkedin.com/in/jithendrabsy/). If you think me (or my projects) are interesting feel free to contact me! You can also mail me at [jithendra1230@gmail.com](mailto:jithendra1230@gmail.com). I'm always interested in hearing about new opportunities to collaborate and work on machine learning projects or hackathons.
+I spend my liesure time mostly banging my head to some heavy metal and some times I read books. Unfortunately, 2020 compelled me to blog about my weird music taste. I started writing my personal thoughts and impressions on Metal bands and their albums on [Medium](https://mettal-musings.blogspot.com/).
 
 
 
