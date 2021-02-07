@@ -61,7 +61,7 @@ But this normal random initialization of weights does not work well for training
 
 **Normal**: normal distribution * $\sqrt {\frac {6} {f_{in}}}$
 
-  - or $\mu$ = 0 and $\sigma^2$ = $\sqrt{\frac{2}{f_{in}}}
+  - or $\mu$ = 0 and $\sigma^2$ = $\sqrt{\frac{2}{f_{in}}}$
     
 ### Remember
 - use Xavier for Sigmoid, tanh and Softmax 
